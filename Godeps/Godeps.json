@@ -1,0 +1,49 @@
+{
+	"ImportPath": "onion",
+	"GoVersion": "go1.4.2",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/aws",
+			"Comment": "v1.1.15-6-ga29cf30",
+			"Rev": "a29cf308ba4234b9927d9c91bc39f42a3e62c673"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/private/endpoints",
+			"Comment": "v1.1.15-6-ga29cf30",
+			"Rev": "a29cf308ba4234b9927d9c91bc39f42a3e62c673"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/private/protocol",
+			"Comment": "v1.1.15-6-ga29cf30",
+			"Rev": "a29cf308ba4234b9927d9c91bc39f42a3e62c673"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/private/signer/v4",
+			"Comment": "v1.1.15-6-ga29cf30",
+			"Rev": "a29cf308ba4234b9927d9c91bc39f42a3e62c673"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/private/waiter",
+			"Comment": "v1.1.15-6-ga29cf30",
+			"Rev": "a29cf308ba4234b9927d9c91bc39f42a3e62c673"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/service/ec2",
+			"Comment": "v1.1.15-6-ga29cf30",
+			"Rev": "a29cf308ba4234b9927d9c91bc39f42a3e62c673"
+		},
+		{
+			"ImportPath": "github.com/go-ini/ini",
+			"Comment": "v1.11.0",
+			"Rev": "12f418cc7edc5a618a51407b7ac1f1f512139df3"
+		},
+		{
+			"ImportPath": "github.com/jmespath/go-jmespath",
+			"Comment": "0.2.2-12-g0b12d6b",
+			"Rev": "0b12d6b521d83fc7f755e7cfc1b1fbdd35a01a74"
+		}
+	]
+}
